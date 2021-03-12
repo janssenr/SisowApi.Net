@@ -31,7 +31,7 @@ var sisow = new SisowClient();
 sisow.SetApiKey("merchantId", "merchantKey", "shopId");
 ```
 
-If you initialized the client you can create your first payment. Below is an example of the request with the required parameters. For all the parameters download our [API documentation](https://www.sisow.nl/developers/).
+If you initialized the client you can create your first payment. Below is an example of the request with the required parameters. For all the parameters check the [API documentation](https://www.sisow.nl/developers/).
 
 ```
 var request = new TransactionRequest
