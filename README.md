@@ -89,7 +89,7 @@ Once added you can execute all the unit tests.
 
 ## Contributing
 
-We are open for suggestion on our code, if you want to make a contribution you can submit a pull request.
+If you want to make a contribution you can submit a pull request.
 
 ## Versioning
 
