@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SisowApi.Net", "SisowApi.Net\SisowApi.Net.csproj", "{DF4937D1-AA2D-4AAD-A896-C32D8CFED396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisowApi.Tests", "SisowApi.Tests\SisowApi.Tests.csproj", "{08AA7BB0-42E5-4E30-B8C7-3875F0EED2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4937D1-AA2D-4AAD-A896-C32D8CFED396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4937D1-AA2D-4AAD-A896-C32D8CFED396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4937D1-AA2D-4AAD-A896-C32D8CFED396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4937D1-AA2D-4AAD-A896-C32D8CFED396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AA7BB0-42E5-4E30-B8C7-3875F0EED2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AA7BB0-42E5-4E30-B8C7-3875F0EED2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AA7BB0-42E5-4E30-B8C7-3875F0EED2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AA7BB0-42E5-4E30-B8C7-3875F0EED2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD1523C-E075-413D-B312-97FBAC5BF40B}
+	EndGlobalSection
+EndGlobal
