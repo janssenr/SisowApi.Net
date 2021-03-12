@@ -70,7 +70,7 @@ If the request for some reason fails a SisowException will be thrown. You can in
 If you want to know the actual payment status, you can retrieve the payment.
 
 ```
-var payment = sisow.Transactions>Get("sisowTransactionId");
+var payment = sisow.Transactions.Get("sisowTransactionId");
 ```
 
 ### Refunding payment
