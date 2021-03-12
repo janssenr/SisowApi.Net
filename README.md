@@ -4,7 +4,7 @@ With this library you can easily connect your custom website/webshop to Sisow.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running.
+These instructions will get you up and running.
 
 ### Prerequisites
 
